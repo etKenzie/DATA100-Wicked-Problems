@@ -1,10 +1,10 @@
-##First level of country imaging
+## First level of country imaging
 
 ![](country1.PNG)
 
 Here the image only shows the country name and has not yet divided the country up to its states
 
-##Second level of country imaging
+## Second level of country imaging
 
 ![](country2.PNG)
 
