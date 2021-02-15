@@ -8,5 +8,5 @@ I’m a person who takes pride in being open to watching many things, but my fav
 
 [challenge problem](https://etkenzie.github.io/data100repository/challenge1.html)
 
-[country](https://etkenzie.github.io/data100repository/zimbabwe.html)
+[country](https://etkenzie.github.io/data100repository/zambia.html)
 
