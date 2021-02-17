@@ -12,6 +12,9 @@ At this point the country has been divided up into counties. The image shows the
 
 ## Individual Strethch Goal 2
 Now that the country has already been divided up into its counties, I searched up the two most populated counties within zambia and made images of them. 
+![](lusaka.png)
+
+![](copperbelt.png)
 
 ## Individual Stretch Goal 3
 
