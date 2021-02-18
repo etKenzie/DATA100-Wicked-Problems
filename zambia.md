@@ -17,7 +17,7 @@ Now that the country has already been divided up into its counties, I searched u
 ![](copperbelt.png)
 
 ## Individual Stretch Goal 3
-For this stretch goal I had to adjust the coordinates to make sure it shows up on my plot. Also there were, two packages that previously weren't installed that needed to be added. These were devtools and ggdflabel. 
+For this stretch goal I had to adjust the coordinates to make sure it shows up on my plot. Also there were, two packages that previously weren't installed that needed to be added. These were devtools and ggdflabel. For reference, detail A is of Lusaka which is the most populated county and detail B is of Copperbelt which is the second most populated county.
 
 ![](is3.PNG)
 
