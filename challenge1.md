@@ -1,3 +1,3 @@
-Hello World
+CIRCLE PLOTTING
 ![](plot1.png)
-A brief description of the plot I produced, it's a spacial desciption of random ideas
+circles, lines, random things xD. 
