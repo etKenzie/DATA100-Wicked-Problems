@@ -14,4 +14,4 @@ BTW, the numbers represent the order I completed the work in each category.
 
 ## INFORMAL RESPONSES
 
-[Response 1](https://etkenzie.github.io/data100repository/zambia.html)
+[Response 1](https://etkenzie.github.io/data100repository/response1.html)
