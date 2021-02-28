@@ -12,7 +12,22 @@ After that I extracted the populatiton count data then implemented that into my 
 
 
 ## ADM 2 (Stretch Goal 1 & 2)
+Same thing as before but with adm 2.
+![](jordan2.png)
 
+Refining the plot
+![](jordan3.png)
+
+
+## ADM 3 (3D Model)
+
+Pictures of the 3D model at different angles
+
+![](jordan4.PNG)
+
+![](jordan5.PNG)
+
+![](jordan6.PNG)
 
 
 
