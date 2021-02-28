@@ -12,7 +12,7 @@ BTW, the numbers represent the order I completed the work in each category.
 
 [2. countryplot](https://etkenzie.github.io/data100repository/zambia.html)
 
-[3. population](https://etkenzie.github.io/data100repository/zambia.html)
+[3. population](https://etkenzie.github.io/data100repository/population.html)
 
 ## INFORMAL RESPONSES
 
