@@ -10,7 +10,9 @@ BTW, the numbers represent the order I completed the work in each category.
 
 [1. circle plotting](https://etkenzie.github.io/data100repository/challenge1.html)
 
-[2. country](https://etkenzie.github.io/data100repository/zambia.html)
+[2. countryplot](https://etkenzie.github.io/data100repository/zambia.html)
+
+[3. population](https://etkenzie.github.io/data100repository/zambia.html)
 
 ## INFORMAL RESPONSES
 
