@@ -16,6 +16,7 @@ Same thing as before but with adm 2.
 ![](jordan2.png)
 
 Refining the plot
+
 ![](jordan3.png)
 
 
