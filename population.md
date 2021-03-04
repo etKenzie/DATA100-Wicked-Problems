@@ -37,6 +37,7 @@ Pictures of the 3D model at different angles
 ![](jordan9.PNG)
 
 Here I'm combining the barplot with the map, placing them side by side.
+
 ![](jordan11.PNG)
 
 
