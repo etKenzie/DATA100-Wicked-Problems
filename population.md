@@ -20,7 +20,7 @@ Refining the plot
 ![](jordan3.png)
 
 
-## ADM 3 (3D Model)
+## 3D Model
 
 Pictures of the 3D model at different angles
 
@@ -29,6 +29,15 @@ Pictures of the 3D model at different angles
 ![](jordan5.PNG)
 
 ![](jordan6.PNG)
+
+## Barplot
+
+![](jordan7.PNG)
+
+![](jordan9.PNG)
+
+Here I'm combining the barplot with the map, placing them side by side.
+![](jordan11.PNG)
 
 
 
