@@ -17,3 +17,6 @@ BTW, the numbers represent the order I completed the work in each category.
 ## INFORMAL RESPONSES
 
 [Response 1](https://etkenzie.github.io/data100repository/response1.html)
+
+
+[Response 2](https://etkenzie.github.io/data100repository/response2.html)
