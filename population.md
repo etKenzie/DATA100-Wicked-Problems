@@ -41,7 +41,7 @@ Here I'm combining the barplot with the map, placing them side by side.
 ![](jordan11.png)
 
 Here is an ADM 2 barplot
-![](jordan12.png)
+![](jordan12.PNG)
 
 
 
