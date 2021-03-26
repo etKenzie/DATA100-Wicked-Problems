@@ -20,3 +20,6 @@ BTW, the numbers represent the order I completed the work in each category.
 
 
 [Response 2](https://etkenzie.github.io/data100repository/response2.html)
+
+
+[Response 3](https://etkenzie.github.io/data100repository/response3.html)
