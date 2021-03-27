@@ -14,6 +14,8 @@ BTW, the numbers represent the order I completed the work in each category.
 
 [3. population](https://etkenzie.github.io/data100repository/population.html)
 
+[4. plotting](https://etkenzie.github.io/data100repository/project4.html)
+
 ## INFORMAL RESPONSES
 
 [Response 1](https://etkenzie.github.io/data100repository/response1.html)
