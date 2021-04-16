@@ -22,7 +22,7 @@ Here I'm getting models for the capital city of Jordan which is Amman.
 
 
 ## Jordan as a whole
-MEAN
+# MEAN
 
 ![](mean.PNG)
 
@@ -32,7 +32,7 @@ MEAN
 
 ![](3dmean.PNG)
 
-SUM
+# SUM
 
 ![](sum.PNG)
 
@@ -42,7 +42,7 @@ SUM
 
 ![](3dsum.PNG)
 
-LOG
+# LOG
 
 ![](log.PNG)
 
