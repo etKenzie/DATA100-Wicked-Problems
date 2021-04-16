@@ -22,7 +22,7 @@ Here I'm getting models for the capital city of Jordan which is Amman.
 
 
 ## Jordan as a whole
-# MEAN
+**MEAN**
 
 ![](mean.PNG)
 
@@ -32,7 +32,7 @@ Here I'm getting models for the capital city of Jordan which is Amman.
 
 ![](3dmean.PNG)
 
-# SUM
+**SUM**
 
 ![](sum.PNG)
 
@@ -42,7 +42,7 @@ Here I'm getting models for the capital city of Jordan which is Amman.
 
 ![](3dsum.PNG)
 
-# LOG
+**LOG**
 
 ![](log.PNG)
 
@@ -53,5 +53,5 @@ Here I'm getting models for the capital city of Jordan which is Amman.
 ![](3dlog.PNG)
 
 
-
+As a whole I think the best predictor still is the mean, as it gives the lowest differences. 
 
