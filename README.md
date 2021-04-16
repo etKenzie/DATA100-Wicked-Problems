@@ -8,13 +8,15 @@ BTW, the numbers represent the order I completed the work in each category.
 
 ## PROJECTS
 
-[1. circle plotting](https://etkenzie.github.io/data100repository/challenge1.html)
+[0. circle plotting](https://etkenzie.github.io/data100repository/challenge1.html)
 
-[2. countryplot](https://etkenzie.github.io/data100repository/zambia.html)
+[1. countryplot](https://etkenzie.github.io/data100repository/zambia.html)
 
-[3. population](https://etkenzie.github.io/data100repository/population.html)
+[2. population](https://etkenzie.github.io/data100repository/population.html)
 
-[4. plotting](https://etkenzie.github.io/data100repository/project4.html)
+[3. plotting](https://etkenzie.github.io/data100repository/project4.html)
+
+[4. sum mean pop](https://etkenzie.github.io/data100repository/sum_mean_pop.html)
 
 ## INFORMAL RESPONSES
 
