@@ -1,4 +1,4 @@
-## A lot of Rasterizing 
+## Amman. Capital city of Jordan
 
 Here I'm getting models for the capital city of Jordan which is Amman. 
 
@@ -19,3 +19,39 @@ Here I'm getting models for the capital city of Jordan which is Amman.
 
 
 ![](mapview_pop.PNG)
+
+
+## Jordan as a whole
+MEAN
+
+![](mean.PNG)
+
+
+![](difmean.PNG)
+
+
+![](3dmean.PNG)
+
+SUM
+
+![](sum.PNG)
+
+
+![](difsum.PNG)
+
+
+![](3dsum.PNG)
+
+LOG
+
+![](log.PNG)
+
+
+![](diflog.PNG)
+
+
+![](3dlog.PNG)
+
+
+
+
