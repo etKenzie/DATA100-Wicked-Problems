@@ -30,4 +30,33 @@ Then showing the healthcare. Here the red is hospitals and clinics, while the bl
 
 Here you can notice that within the two ADM2's that I was focusing on there really weren't any healthcare facilities. Instead all of them resided in the ADM2 beside it, which is Amman, which is actually a lot more populated and is part of the capital of Jordan. This goes to show that if you lived in the part of the country where I was plotting, then you would need to head to the capital city to get treated. Which shows the lack of healthcare in underurbanized areas.  
 
+## 3D Modelling 
+Now at this point I only need to do a 3d Model of my area along with all the info I added before.
+
+First I got a topography of the entire area
+![](6(7).PNG)
+
+![](6(8).PNG)
+
+Then I made an outline of my combined ADM2's and placed it into the model
+![](6(9).PNG)
+
+![](6(10).PNG)
+
+![](611).PNG)
+
+Lastly, I added all the information in the graphs on the previous part
+![](6(12).PNG)
+
+ROADS
+![](6(13).PNG)
+
+HEALTH
+![](6(14).PNG)
+
+
+
+
+
+
 
