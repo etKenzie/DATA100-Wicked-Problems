@@ -43,7 +43,7 @@ Then I made an outline of my combined ADM2's and placed it into the model
 
 ![](6(10).PNG)
 
-![](611).PNG)
+![](6(11).PNG)
 
 Lastly, I added all the information in the graphs on the previous part
 ![](6(12).PNG)
