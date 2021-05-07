@@ -20,7 +20,7 @@ Then after I did the same entire process I got the density plot
 Then I seperated the areas to see which parts were more urbanized. 
 ![](6(3).PNG)
 
-![](6(3).PNG)
+![](6(4).PNG)
 
 At this point I added different important parts such as the Roads. Here the red is primary roads, orange is secondary roads, and grey is more secluded roads.
 ![](6(5).PNG)
