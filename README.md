@@ -18,6 +18,8 @@ BTW, the numbers represent the order I completed the work in each category.
 
 [4. sum mean pop](https://etkenzie.github.io/data100repository/sum_mean_pop.html)
 
+[5. model](https://etkenzie.github.io/data100repository/model.html)
+
 ## INFORMAL RESPONSES
 
 [Response 1](https://etkenzie.github.io/data100repository/response1.html)
