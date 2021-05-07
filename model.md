@@ -27,7 +27,7 @@ At this point I added different important parts such as the Roads. Here the red 
 
 As seen here most of the main roads dont go into the area I selected. Most of it is just at the outskirts, and this proves how the area I've selected it actually a secluded area, which is why not a lot of people live or go to these areas. This explains why the population is low even considering that its size is pretty big.
 
-Then showing the healthcare. Here the red is hospitals and clinics, while the blue is other types of healthcare arounud the area
+Then showing the healthcare. Here the red is hospitals and clinics, while the blue is other types of healthcare around the area
 ![](6(6).PNG)
 
 Here you can notice that within the two ADM2's that I was focusing on there really weren't any healthcare facilities. Instead all of them resided in the ADM2 beside it, which is Amman, which is actually a lot more populated and is part of the capital of Jordan. This goes to show that if you lived in the part of the country where I was plotting, then you would need to head to the capital city to get treated. Which shows the lack of healthcare in underurbanized areas.  
