@@ -5,6 +5,8 @@ Now that I've finished the other projects I needed to select an AMD to dive deep
 
 ![](firsttry(2).PNG)
 
+![](firsttry(3).PNG)
+
 ## Swithching It Up
 After going deeper into the process here I found that the area of this ADM2 was to smalll and thus I could not do a good job in modeling it. So I decided to switch things up and changed the area I chose to dive deeper into. In the end, I combined two ADM2's that was not too populated but had bigger areas. 
 
